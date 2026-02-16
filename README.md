@@ -44,6 +44,9 @@ If you don't trust the prebuilt executable (which is fair), build it yourself.
 pip install pyinstaller
 ```
 
+<img width="1390" height="702" alt="Screenshot 2026-02-17 000300" src="https://github.com/user-attachments/assets/ad26a9d7-e0d0-4879-8980-a3547875c884" />
+
+
 ![kaawaiiii](https://github.com/user-attachments/assets/b0829ef6-7071-4c97-afd2-1cf091f261c8)
 
 
